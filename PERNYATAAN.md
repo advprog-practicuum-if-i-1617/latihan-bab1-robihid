@@ -10,6 +10,8 @@ Yang bertanda tangan dibawah ini
 
 Yang membuat pernyataan,
 
-(( tanda tangan anda yang telah di scan ))
+<p align="left">
+  <img src="https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-robihid/raw/master/New%20Doc%202017-03-13.jpg" width="100" height="100"/>
+</p>
 
 Robi Hidayat
