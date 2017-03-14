@@ -73,20 +73,4 @@ public class Pacman {
             System.out.println("");
         }
     }
-
-    public void status() {
-        int food = 0;
-        for (int i = 0; i < maze.length; i++) {
-            for (int j = 0; j < maze[i].length; j++) {
-                if (maze[i][j] == 3) {
-                    food++;
-                }
-            }
-        }
-        if (food == 0) {
-            System.out.println("YOU WIN");
-        } else {
-            System.out.println("YOU LOSE");
-        }
-    }
 }
